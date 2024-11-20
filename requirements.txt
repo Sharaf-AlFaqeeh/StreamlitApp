@@ -2,3 +2,6 @@ streamlit== 1.37.0
 pymongo== 4.10.0
 deta== 1.2.0
 plotly== 5.24.1
+streamlit_option_menu
+dotenv
+
